@@ -1,3 +1,8 @@
-asdfjklsd hjkfhjkfd sklhjasfd hkljfasd hkljsfakld hjhjfs dhlkj fdahfad kjlsfd kljlkhjfdshkjl fdsklhjdfs dfskhjafhjkld slhkjfsd hksfd jkhfd sahljkafsd khjl fasdhlfd skd lhafhljkds alhkjfd akhjf dshlfhksld j flkdl fasdkh fsalhdkhfkls dajhlkfs hkljdfkfjd shkjfs djkhfsd hkjfd shkjfd shkjfhjkd skfhjd shkjfd shkjfd skjhflsd alhkjfd hjfklsadvxbzc,nmvb,nmzcx bnm,vxcz,bnmvcxzb   bnm,   v c bn   vcmbncvbnxmbvxmcnvbmncweoriiuoweruiodxhkj hk  fhkj khfjxcbv ksdfjlkjlk fjlkwjlkwej
+![memex kox dev](cooltext370540643547818.gif)
 
-![alt text](cooltext370540643547818.gif)
+o mnie:
+- 😳 jestem kox dev
+- 🎲 no zajebisty jestme
+- 🤔 chyba umiem jave
+
+![statsy moje](https://github-readme-stats.vercel.app/api?username=Memexurer&hide=contribs&count_private=true&show_icons=true)
