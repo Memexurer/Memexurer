@@ -1,4 +1,4 @@
-![memex kox dev](cooltext370540643547818.gif)
+![memex kox dev](https://count.getloli.com/get/@memexurer)
 
 o mnie:
 - 😳 jestem kox dev
