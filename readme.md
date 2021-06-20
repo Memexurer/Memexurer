@@ -1,9 +1,2 @@
-![memex kox dev](https://count.getloli.com/get/@memexurer)
-
-o mnie:
-- 😳 jestem kox dev
-- 🎲 no zajebisty jestme
-- 🤔 programista pralki
-
-![discord](https://discord.c99.nl/widget/theme-1/735859767163224085.png)
-![statsy moje](https://github-readme-stats.vercel.app/api?username=Memexurer&hide=contribs&count_private=true&show_icons=true)
+![discord](https://discord.c99.nl/widget/theme-1/735859767163224085.png)  
+![Metrics](https://metrics.lecoq.io/Memexurer?template=classic&isocalendar=1&introduction=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FWarsaw)
